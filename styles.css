@@ -1,0 +1,33 @@
+.container-cover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    font-size: 20px;
+}
+
+.case{
+    height: 300px;
+    margin-top: 20%;
+    border: 2px dotted orangered;
+    padding-top: 50px;
+    transition: 1s;
+}
+
+
+label, input, button{
+    transition: 0.5s;
+}
+
+label:hover, input:hover, button:hover{
+    color: rgb(70, 69, 69);
+}
+
