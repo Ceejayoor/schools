@@ -5,7 +5,7 @@ const paragraph = document.getElementById("paragraph");
 
 submit.onclick = function(){
     if(userName.value === "Stephen" && password.value === "Stephen123"){
-        window.location.href = "https://sites.google.com/view/bedrockcollegeschool/jss1/stephen-jaiyesimi";
+        window.location.href = "https://sites.google.com/view/donumchristischool/college/jss1/ax-student";
     }
     else if(userName.value === "Rita" && password.value === "Rita123"){
        window.location.href = "https://sites.google.com/view/bedrockcollegeschool/jss1/rita-sina";
