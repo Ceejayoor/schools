@@ -8,9 +8,9 @@ submit.onclick = function(){
         window.location.href = "https://sites.google.com/view/donumchristischool/college/jss1/ax-student";
     }
     else if(userName.value === "Rita" && password.value === "Rita123"){
-       window.location.href = "https://sites.google.com/view/bedrockcollegeschool/jss1/rita-sina";
+       window.location.href = "https://sites.google.com/view/donumchristischool/college/jss1/ay-student";
     }
     else if(userName.value === "Emeka" && password.value === "Emeka123"){
-        window.location.href = "https://sites.google.com/view/bedrockcollegeschool/jss1/emeka-azikiwe";
+        window.location.href = "https://sites.google.com/view/donumchristischool/college/jss1/az-student";
     }
 }
